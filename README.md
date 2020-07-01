@@ -21,6 +21,9 @@ The demo of the app can be found [here](https://burger-eater-v1.herokuapp.com/).
 2. Install the application dependencies.
 
    cd burger_eater
+   
+   then, 
+   
    npm install
 
 3. Run the server locally with the following command.
