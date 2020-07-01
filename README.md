@@ -30,8 +30,6 @@ The demo of the app can be found [here](https://burger-eater-v1.herokuapp.com/).
 
    node server
 
-4. The application can now be opened on port 3000 at the URL:
-
-`http://localhost:3000/`
+4. The application can now be opened on port 3000 at the URL `http://localhost:3000/`.
 
 **Enjoy!**
